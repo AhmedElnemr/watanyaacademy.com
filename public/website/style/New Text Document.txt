@@ -1,0 +1,176 @@
+<!--HEADER SECTION-->
+    <section>
+        <!-- TOP BAR -->
+        <div class="ed-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="ed-com-t1-left">
+                            <ul>
+                                <li><a href="#">للتواصل :القاهرة -مدينة نصر -شارع عباس العقاد</a>
+                                </li>
+                                <li><a href="#">الهاتف:01024578962</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-right">
+                            <ul>
+                                <li><a href="contact-us.html" > اتصل بنا </a>
+                                </li>
+                                <li><a href="blog.html"> أخبارنا </a>
+                                </li>
+<!--
+                                <li><a href="#!" data-toggle="modal" data-target="#modal1"> اتصل بنا </a>
+                                </li>
+                                <li><a href="#!" data-toggle="modal" data-target="#modal2"> أخبارنا </a>
+                                </li>
+-->
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-social">
+                            <ul>
+                                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                </li>
+                                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- LOGO AND MENU SECTION -->
+        <div class="top-logo" data-spy="affix" data-offset-top="250">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="wed-logo">
+                            <a href="index.html"><img src="images/logo.png" alt="" />
+                            </a>
+                        </div>
+                         <div class="search-form">
+                            <form>
+                                <div class="sf-type">
+                                    <div class="sf-input">
+                                        <input type="text" id="sf-box" placeholder="ابحث عن الكورس أو النشاط الذى تريده">
+                                    </div>
+                                </div>
+                                <div class="sf-submit">
+                                    <input type="submit" value="بحث">
+                                </div>
+                            </form>
+                        </div>
+                       
+                    </div>
+                    <div class="all-drop-down-menu">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="search-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="main-menu">
+                            <ul>
+                                <li><a href="index.html">الرئيسية</a>
+                                </li>
+                                <li class="about-menu">
+                                    <a href="#!" class="mm-arr">تعريف الاكاديمية</a>
+                                    <!-- MEGA MENU 1 -->
+                                    <div class="mm-pos">
+                                        <div class="about-mm m-menu">
+                                            <div class="m-menu-inn">
+                                                <div class="mm1-com mm1-s1">
+                                                   <ul>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="mission.html">رؤية الاكاديمية</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="mission.html">رسالة الاكاديمية</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="mission.html">أهداف الاكاديمية</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="about%20-boss.html">كلمة رئيس الاكاديمية</a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="admi-menu">
+                                    <a href="#" class="mm-arr">البرامج التعليمية</a>
+                                    <!-- MEGA MENU 1 -->
+                                    <div class="mm-pos">
+                                        <div class="admi-mm m-menu">
+                                            <div class="m-menu-inn">
+                                                <div class="mm2-com mm1-com mm1-s1">
+                                                    <ul>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="program.html">المستوى الأول </a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="program.html">المستوى الثانى</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="program.html">المستوى الثالث</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="program.html">المستوى الرابع</a></li>
+                                                    </ul>
+                                                </div>
+        
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li><a href="prof.html">أعضاء هيئة التدريس</a></li>
+                                <li>
+                                    <a href="all-courses.html" class="mm-arr">كورسات ودورات</a>
+                                </li>
+                                <li><a href="about.html" >طريقة الدراسة بالاكاديمية</a>
+                                </li>
+                                <li><a href="about.html"> طريقة الالتحاق بالأكاديمية </a>
+                                </li>
+                                <li class="cour-menu">
+                                <a href="#!" class="mm-arr">الأنشطة</a>
+                                    <div class="mm-pos">
+                                        <div class="cour-mm m-menu">
+                                            <div class="m-menu-inn">
+                                                <div class="mm1-com mm1-s1">
+                                                    <ul>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="events.html">ندوات</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="events.html">مؤتمرات</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="events.html">زيارات</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="events.html">اجتماعات</a></li>
+                                                        <li><i class="fa fa-long-arrow-left"></i><a href="events.html">مناقشات ورسائل</a></li>
+                                                    </ul>
+                                                </div>
+        
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li><a href="blog.html">أخبارنا</a>
+                                </li>
+                                <li><a href="contact-us.html">اتصل بنا</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--END HEADER SECTION-->
+
+    <!-- SLIDER -->
+    <section>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel">
+                <div class="item">
+                    <img src="images/slider/2.jpg" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>أهلا بك فى الأكاديمية الوطنية  <span>للعلوم الشاملة</span></h2>
+                        <p> بتسجيلك فى برنامج الأكاديمية الوطنية للعلوم الشاملة تتجاوز العقبات وتتعلم العلم بكل يسر وسهولة من خلال الوسائل المتقدمة المعتمدة فى برنامج الأكاديمية </p>
+                        <a href="academy-register.html" class="bann-btn-1">سجل الآن </a><a href="#" class="bann-btn-2">لقراءة المزيد </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
